@@ -1,0 +1,60 @@
+image_1.png: 1890
+
+image_2.png: 29
+
+image_3.png: 26
+
+image_4.png: 48
+
+image_5.png: -100.0
+
+image_6.png: 11
+
+image_7.png: 8
+
+image_8.png: 15
+
+image_9.png: 1901
+
+image_10.png: 26
+
+image_11.png: 127
+
+image_12.png: 43
+
+image_13.png: 12
+
+image_14.png: 3
+
+image_15.png: 21
+
+image_16.png: 12
+
+image_17.png: 1895
+
+image_18.png: .66
+
+image_19.png: 4.16
+
+image_20.png: 17
+
+image_21.png: 40
+
+image_22.png: 119
+
+image_23.png: 12
+
+image_24.png: 10
+
+image_25.png: 1902
+
+image_26.png: 64
+
+image_27.png: 60
+
+image_28.png: 6
+
+image_29.png: 20
+
+image_30.png: 1902
+

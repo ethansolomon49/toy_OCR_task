@@ -17,10 +17,15 @@ This problem requires you to digitize the numbers in the `data` folder of this d
 1. A `code` folder containing all the Python code necessary to generate the output file and a filled out section of the readme explaining these contents and how to run the code. Please additionally ensure that the code is properly commented and easily readable. 
 1. The `output.txt` file containing the numbers printed on the documents in the data folder, in order and with a new line for each new entry. 
 
-## Setup instructions (YOU EDIT)
+## Setup instructions
 
-Replace this text with instructions for recreating the environment necessary to run your code. 
+1. Install Pillow using `pip install pillow`
+1. Install OpenCV using `pip install opencv-python`
+1. Install Tesseract according to [these instructions](https://tesseract-ocr.github.io/tessdoc/Installation.html)
+1. Install PyTesseract using `pip install pytesseract`
 
-## Instructions to reproduce the output (YOU EDIT)
+## Instructions to reproduce the output
 
-The `output.txt` file contained in this repository was generated with the code available in the `code/` folder....
+The `output.txt` file is generated with the script in the `code/` folder. To run it, simply use the command `python code/process_data.py` in the command line while in the main repository. 
+
+Optionally, the last line in `process_data.py` can be commented out to keep the processed images created during the OCR task. 
